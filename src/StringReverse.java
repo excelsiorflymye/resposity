@@ -14,6 +14,7 @@ public class StringReverse {
 				sumInt = sumInt * 10 + (str.charAt(i)-'0' + 0);
 			}
 			return sumInt;
+			
 		}
 		return -1;
 	}
